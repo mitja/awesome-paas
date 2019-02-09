@@ -72,7 +72,15 @@ A curated list of awesome Platform as a Service resources.
 
 * [Installing OKD 3.10 on a Single Host](https://blog.openshift.com/installing-okd-3-10-on-a-single-host/): A 22 minute
   Video that shows how to install OKD 3.10 from start to finish using the Ansible playbooks that are provided as the
-  official way to install a cluster.
+  official way to install a cluster. This is more involved than using the OKD Docker image or Minishift but closer to 
+  installing a production OKD cluster.
+  
+* [Adding an SSL certificate to OKD](https://youtu.be/S7HoJ09oYn0): A companion video to 
+  'Installing OKD 3.10 on a single host' to add a Let's encrypt certificate to the console.
+  
+* [Free Wildcard Certificates and OpenShift](https://blog.openshift.com/lets-encrypt-acme-v2-api/): A blog post 
+  explaining how to add a Let's encrypt wildcard certificate to an existing OKD or OpenShift installation for 
+  both the console and the deployed apps.
 
 * [OKD Getting started as a developer: Web console walkthrough](https://docs.okd.io/latest/getting_started/developers_console.html):
   This getting started experience walks you through the simplest way to get a sample project up and running on OKD
@@ -81,6 +89,7 @@ A curated list of awesome Platform as a Service resources.
 * [OKD Getting started as a developer: Command-line walkthrough](https://docs.okd.io/latest/getting_started/developers_cli.html):
   This getting started experience walks you through the simplest way to get a sample project up and running on OKD
   using the command-line. 
+
 
 ## Courses and Trainings
 
