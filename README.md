@@ -27,25 +27,24 @@ A curated list of awesome Platform as a Service resources.
 * [Heroku](https://www.heroku.com): Heroku is a cloud platform based on a managed container system, with integrated 
   data services and a powerful ecosystem, for deploying and running modern apps.
 
-* [OID](https://www.okd.io): The Community Distribution of Kubernetes that powers Red Hat OpenShift. Built around a 
-  core of OCI container packaging and Kubernetes container cluster management, OKD is also augmented by application 
-  lifecycle management functionality and DevOps tooling. OKD provides a complete open source container application 
-  platform. OKD is also referred to as Origin in github and in the documentation.
+* [OKD aka OpenShift Origin](https://www.okd.io): The Community Distribution of Kubernetes that powers Red Hat OpenShift. 
+  Built around a core of OCI container packaging and Kubernetes container cluster management, OKD is also augmented by 
+  application lifecycle management functionality and DevOps tooling. OKD provides a complete open source container 
+  application platform. OKD is also referred to as Origin in github and in the documentation.
 
 * [Pivotal Cloud Foundry](https://pivotal.io/platform): Continuously deliver any app to every major private and public 
   cloud with a single platform.
   
-* [Red Hat OpenShift](https://www.openshift.com): The Kubernetes platform for big ideas. Focus on writing code and let 
-  OpenShift build, run, and scale your apps in the cloud. Red Hat OpenShift helps teams deliver faster with containers 
-  and Kubernetes.
+* [Red Hat OpenShift Container Platform](https://www.openshift.com): The Kubernetes platform for big ideas. Focus on 
+  writing code and let OpenShift build, run, and scale your apps in the cloud. Red Hat OpenShift helps teams deliver 
+  faster with containers and Kubernetes.
 
 * [SAP Cloud Platform](https://cloudplatform.sap.com/index.html): The business platform to innovate, connect and extend
   your business. Based on Cloud Foundry.
  
 * [T-Systems AppAgile PaaS](https://cloud.telekom.de/en/infrastructure/appagile-paas-big-data/paas): The modular 
   Platform-as-a-Service offering (PaaS) combines technical development platforms with quickly available business 
-  applications from the cloud and can be used as a managed service with no significant development outlay. A 
-  managed service based on Red Hat OpenShift.
+  applications from the cloud and can be used as a managed service with no significant development outlay.
 
 
 ## Case Studies and Success Stories
@@ -70,10 +69,10 @@ A curated list of awesome Platform as a Service resources.
   Minishift is a tool that helps you run OKD locally by launching a single-node OKD cluster inside a virtual machine. 
   With Minishift you can try out OKD or develop with it, day-to-day, on your local machine.
 
-* [Installing OKD 3.10 on a Single Host](https://blog.openshift.com/installing-okd-3-10-on-a-single-host/): A 22 minute
-  Video that shows how to install OKD 3.10 from start to finish using the Ansible playbooks that are provided as the
-  official way to install a cluster. This is more involved than using the OKD Docker image or Minishift but closer to 
-  installing a production OKD cluster.
+* [Installing OKD 3.10 on a Single Host](https://blog.openshift.com/installing-okd-3-10-on-a-single-host/): A 
+  video that shows how to install OKD from start to finish using the Ansible playbooks that are provided as the
+  official way to install a cluster. This is more involved than using the OKD Docker image or Minishift but better
+  suited to a system that is meant to be always running. Works with OKD 3.11, too.
   
 * [Adding an SSL certificate to OKD](https://youtu.be/S7HoJ09oYn0): A companion video to 
   'Installing OKD 3.10 on a single host' to add a Let's encrypt certificate to the console.
@@ -93,7 +92,8 @@ A curated list of awesome Platform as a Service resources.
 
 ## Courses and Trainings
 
-TBD
+* [OpenShift Interactive Learning Portal](https://learn.openshift.com): Interactive learning scenarios with pre-configured
+  OpenShift instances. Use it to experiment with and learn to use OpenShift.
 
 
 ## Books
@@ -130,8 +130,8 @@ TBD
 ## News and Blog Posts (latest first)
 
 * [Reza Shafii: Kubernetes guideposts for 2019. OpenShift Blog, Jan 2019](https://blog.openshift.com/kubernetes-guideposts-for-2019/)
-  Reza redicts automated operations will be the next step, federation V2 will make mulit-cloud easier, serverless comes
-  to Kubernetes and 2019 will be the year of hybrid serverles, k8s will enable hybrid operations for containers and
+  Reza predicts automated operations will be the next step, federation V2 will make multi-cloud easier, serverless comes
+  to Kubernetes and 2019 will be the year of hybrid serverless, k8s will enable hybrid operations for containers and
   virtual machines and it'll be on bare metal, open source developer communities target k8s by default, we will see
   workloads start moving back to the datacenter.
 
