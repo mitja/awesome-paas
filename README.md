@@ -51,6 +51,8 @@ A curated list of awesome Platform as a Service resources.
 
 * [Heroku Customers](https://www.heroku.com/customers)
 
+* [Cloud Foundry Case Studies](https://www.cloudfoundry.org/foundryblog/case-studies/)
+
 * [Microsoft Azure App Service Case Studies](https://azure.microsoft.com/en-us/case-studies/?service=app-service)
 
 * [OpenShift Success Stories](https://www.openshift.com/learn/success-stories/)
@@ -62,7 +64,9 @@ A curated list of awesome Platform as a Service resources.
 * [SAP Cloud Platform Success Stories](https://cloudplatform.sap.com/content/skywalker/website/en_us/success.html)
 
 
-## Quick Starts 
+## Quick Starts
+
+### OpenShift and OKD
   
 * [Getting started with Minishift](https://docs.okd.io/latest/minishift/getting-started/index.html): A documentation 
   about how to prepare a virtualization environment on macOS, Linux or Windows, set up Minishift, and start using it. 
