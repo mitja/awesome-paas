@@ -66,10 +66,46 @@ A curated list of awesome Platform as a Service resources.
 
 ## Quick Starts
 
+### Azure App Service
+
+* [Create an ASP.NET Core web app in Azure](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-dotnet):
+  With Visual Studio.
+  
+* [Create a Node.js web app in Azure](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-nodejs):
+  With ZIP upload.
+  
+* [Create a PHP web app in Azure](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-php):
+  With git push.
+  
+* [Create your first Java web app in Azure](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-java): 
+  With Eclipse and Azure Toolkit for Eclipse.
+  
+* [Create a static HTML web app in Azure](https://docs.microsoft.com/azure/app-service/app-service-web-get-started-html):
+  With Azure CLI in Azure Cloud Shell.
+  
+* [Build a Python and PostgreSQL app in Azure App Service](https://docs.microsoft.com/azure/app-service/containers/tutorial-python-postgresql-app):
+  With Azure CLI and git push deploy in Azure Cloud Shell.
+  
+* [Deploy a Docker/Go web app in Web App for Containers](https://docs.microsoft.com/azure/app-service/containers/quickstart-docker-go):
+  With Azure CLI and docker image deployment in Azure Cloud Shell.
+  
+* [Continuous deployment to Azure App Service](https://docs.microsoft.com/azure/app-service/deploy-continuous-deployment):
+  Continous deployment from GitHub, BitBucket or Azure DevOps Repos.
+  
+* [Tutorial: Host a RESTful API with CORS in Azure App Service](https://docs.microsoft.com/azure/app-service/app-service-web-tutorial-rest-api):
+  With .NET Core, Azure CLI, local git deploy.
+
+* [Provision and deploy microservices predictably in Azure](https://docs.microsoft.com/azure/app-service/deploy-complex-application-predictably):
+  With Azure Resource Manager Templates and PowerShell scripting.
+  
+* [Sync content from a cloud folder to Azure App Service](https://docs.microsoft.com/azure/app-service/deploy-content-sync):
+  With sync from Dropbox or OneDrive.
+
+
 ### OpenShift and OKD
   
-* [Getting started with Minishift](https://docs.okd.io/latest/minishift/getting-started/index.html): A documentation 
-  about how to prepare a virtualization environment on macOS, Linux or Windows, set up Minishift, and start using it. 
+* [Getting started with Minishift](https://docs.okd.io/latest/minishift/getting-started/index.html): 
+  Shows how to prepare a virtualization environment on macOS, Linux or Windows, set up Minishift, and start using it. 
   Minishift is a tool that helps you run OKD locally by launching a single-node OKD cluster inside a virtual machine. 
   With Minishift you can try out OKD or develop with it, day-to-day, on your local machine.
 
@@ -94,11 +130,32 @@ A curated list of awesome Platform as a Service resources.
   using the command-line. 
 
 
+## Documentation
+
+* [Azure App Service Overview](https://docs.microsoft.com/azure/app-service/overview)
+
+* [Azure App Service Mobile Apps](https://docs.microsoft.com/azure/app-service-mobile/)
+
+* [Azure App Service API Apps](https://azure.microsoft.com/services/app-service/api/)
+
+
+## Reference Architectures
+
+### Azure App Service
+
+* [Basic web app](https://docs.microsoft.com/azure/architecture/reference-architectures/app-service-web-app/basic-web-app)
+
+* [Web app with improved scalability](https://docs.microsoft.com/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app)
+
+* [Web app in multiple regions](https://docs.microsoft.com/azure/architecture/reference-architectures/app-service-web-app/multi-region)
+
+* [Wep app monitoring](https://docs.microsoft.com/azure/architecture/reference-architectures/app-service-web-app/app-monitoring)
+
+
 ## Courses and Trainings
 
 * [OpenShift Interactive Learning Portal](https://learn.openshift.com): Interactive learning scenarios with pre-configured
   OpenShift instances. Use it to experiment with and learn to use OpenShift.
-
 
 ## Books
 
@@ -112,6 +169,11 @@ A curated list of awesome Platform as a Service resources.
 
 * [SAP Cloud Platform: Tools and Services. SAP Press, 2019](https://www.amazon.de/SAP-Cloud-Platform-Services-englisch/dp/1493216961/ref=sr_1_fkmr2_2?ie=UTF8&qid=1549651734&sr=8-2-fkmr2&keywords=platform+asa+service)
   Yet to be published.
+
+
+## Pricing
+
+* [Azure App Service Pricing](https://azure.microsoft.com/pricing/details/app-service/windows/)
 
 
 ## Analyst Reports
@@ -158,6 +220,12 @@ A curated list of awesome Platform as a Service resources.
 
 * [Richard Watson: I don't always evaluate PaaS with a list of criteria, but when I do, it's this list](https://blogs.gartner.com/richard-watson/dont-always-evaluate-paas-list-criteria-list/):
   A meme themed article on Gartner Blog Nework from 2015.
+
+* [Sunitha Muthukrishna: Best Practices: Windows Azure Websites (WAWS), Feb. 2014](https://azure.microsoft.com/de-de/blog/best-practices-windows-azure-websites-waws/):
+  Best practices for web apps running on Azure App Service: Building a scalable architecture, designing the architecture 
+  to be resilient for failures, automating, deploying, testing in staging, diagnostics logging, monitoring and security.
+
+* [Yochay Kiriaty, Stefan Schackow: Inside the Azure App Service Architecture](https://msdn.microsoft.com/en-us/magazine/mt793270.aspx)
 
 * [Cloud Foundry Container Runtime (CFCR)](https://github.com/cloudfoundry-incubator/kubo-release): An open-source 
   project that provides a solution for deploying and managing Kubernetes clusters using BOSH on AWS, GCP, OpenStack 
