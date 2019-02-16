@@ -165,4 +165,10 @@ A curated list of awesome Platform as a Service resources.
   
 * [Cloud Foundry Stratos](https://github.com/cloudfoundry-incubator/stratos): A Web-based Console UI for Cloud Foundry.
 
+* [OpenShift AeroGear](https://www.aerogear.org): Cloud Native Mobile App Development on OpenShift. AeroGear provides a 
+  suite of Mobile Services across a range of native and hybrid client SDKs that will simplify your mobile and modern 
+  application development needs, leveraging OpenShift's Container technology to provide a secure, scalable backend
+  platform. AeroGear provides solutions for Identitiy Management, Push Notifications, Mobile Metrics, Mobile CI/CD and 
+  Device Security.
+
 * [Secrets of successful Cloud Foundry Users](https://content.pivotal.io/infographics/secrets-of-successful-cloud-foundry-users): An infographic.
