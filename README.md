@@ -1,8 +1,8 @@
-![](logo.png)
-
-# Awesome PaaS
-
-A curated list of awesome Platform as a Service resources.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mitja/awesome-paas/master/logo.png?raw=true" alt="Awesome PaaS' Logo"/>
+</p>
+<h1 align="center">Awesome PaaS</h1>
+<p align="center">A curated list of awesome PaaS resources.</p>
 
 
 ## Services and Solutions
