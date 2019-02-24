@@ -1,3 +1,5 @@
+![](logo.png)
+
 # Awesome PaaS
 
 A curated list of awesome Platform as a Service resources.
