@@ -48,6 +48,9 @@
   Platform-as-a-Service offering (PaaS) combines technical development platforms with quickly available business 
   applications from the cloud and can be used as a managed service with no significant development outlay.
 
+* [Zerops](https://zerops.io/) is a developer cloud built on bare metal with full Linux containers, SSH access, and managed databases (Postgres, MariaDB, Valkey, KeyDB) on project-private networking. 
+  Live since 2020. Offers both free and paid plans.
+
 
 ## Case Studies and Success Stories
 
