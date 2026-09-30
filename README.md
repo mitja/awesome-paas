@@ -19,6 +19,8 @@
   
 * [Dokku](http://dokku.viewdocs.io/dokku/): The smallest PaaS implementation you've ever seen.
 
+* [Peon](https://peon.sh/): Open source self-hosted Docker deployment platform (Git push deploys, Compose, databases, TLS, backups, workspace RBAC) with a built-in MCP server for agents.
+
 * [Flynn](https://github.com/flynn/flynn): A next generation open source platform as a service. Flynn is designed to run
   anything that can run on Linux, not just stateless web apps. Flynn comes with highly available database appliances, 
   including PostgreSQL, MySQL, and MongoDB.
