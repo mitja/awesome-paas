@@ -19,6 +19,10 @@
   
 * [Dokku](http://dokku.viewdocs.io/dokku/): The smallest PaaS implementation you've ever seen.
 
+* [Easypanel](https://easypanel.io/): A proprietary, self-hosted deployment panel for applications and databases using
+  Docker images and Docker Compose, with automatic SSL, monitoring and backups. Free for three projects; server
+  hosting is separate.
+
 * [Flynn](https://github.com/flynn/flynn): A next generation open source platform as a service. Flynn is designed to run
   anything that can run on Linux, not just stateless web apps. Flynn comes with highly available database appliances, 
   including PostgreSQL, MySQL, and MongoDB.
